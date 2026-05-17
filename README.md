@@ -80,21 +80,29 @@ Apne pasand ki jagah pe 1 click me bot deploy karo:
 + 📌 TOOLS - Logo Maker, TempMail, SS Web, Weather, News
 + 🔊 AUDIO/VIDEO - Play Song, YTA, YTV, ToMp3, ToVideo
 + 📊 300+ COMMANDS - .menu likh ke sab dekho
-📊 GITHUB STATS
+---
+
+---
+
+### 💖 **SUPPORT & CONTACT**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdihacmer11&repo=MEHDI-KING-MD-BOT&theme=radical" />
+  <a href="https://github.com/mehdihacmer11/MEHDI-KING-MD-BOT">
+    <img src="https://img.shields.io/badge/⭐_Agar_Bot_Pasand_Aaye-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star Repo"/>
+  </a>
 </p>
-💖 SUPPORT & CONTACT
-Bot pasand aaye to Repo ko ⭐ Star kar dena. Koi issue ho to neeche contact karein:
+
+<p align="center">
+  <b>👆 Upar Wala Button Daba Ke Repo Ko Star Kar Dein 👆</b><br>
+  <i>Apka 1 Star humein aur motivate karta hai ❤️</i>
+</p>
+
+**Koi issue ho to neeche contact karein:**
 
 <p align="center">
 <a href="https://wa.me/923345254458"><img src="https://img.shields.io/badge/💬_Contact_Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://chat.whatsapp.com/Hg47eVx6vcvKeHvFCVnyol"><img src="https://img.shields.io/badge/👥_Join_Support_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://whatsapp.com/channel/0029Vb81jWC8KMqgLoOw5O17"><img src="https://img.shields.io/badge/📢_Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Made+With+❤️+By+MEHDI;Thanks+For+Using+MEHDI-MD" alt="Footer" />
-</p>
 
-
-         Thanku🫂💙 
+---       THANKU 🫂💙
