@@ -1,8 +1,8 @@
 {
-  "name": "Medhi-md",
-  "description": "Javascript WhatsApp bot made by medhi kimg",
-  "logo": "https://files.catbox.moe/ejufwa.jpg",
-  "keywords": ["Medhi-MD"],
+  "name": "Mehdi-md",
+  "description": "Javascript WhatsApp bot made by mehdi king",
+  "logo": "https://files.catbox.moe/du6w3u.jpg",
+  "keywords": ["Mehdi-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "*𝐏σωєяє∂ 𝐁у 𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽*"
+      "value": "*𝐏σωєяє∂ 𝐁у MEHDI-𝐌D⎯꯭̽*"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽*"
+      "value": "*SEEN YOUR STATUS BY MEHDI-MD⎯꯭̽*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽🩷*"
+      "value": "*MEHDI-MD⎯꯭̽🩷*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923266105873"
+      "value": "923345254458"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "*𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽*"
+      "value": "*MEHDI-MD⎯꯭̽*"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ejufwa.jpg"
+      "value": "https://files.catbox.moe/du6w3u.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *𝐏σωєяє∂ 𝐁у 𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽🩷*"
+      "value": "> *𝐏σωєяє∂ 𝐁у MEHDI-MD⎯꯭̽🩷*"
     },
 
       "DELETE_LINKS": {
